@@ -22,12 +22,13 @@
 - for **Web**      use Run ▶ './gradlew :composeApp:wasmjsBrowserProductionWebpack' (outputDir is 'root\composeApp\build\dist\wasmJs\...') (to see working web-app, need to be uploaded githubPages: **see** in githubPage - [site](https://zulfiddinovich.github.io/Rail_Draw_ComposeMultiplatform/web_release/) )
 - for **Ios**      // todo
 
+=====================================================================================================
 * **Single**:
     - desktop setup installer (*.msi file) can be achieved with [this](https://www.youtube.com/watch?v=Jv_9zEkavAs)
 
 * **Note:**
-    Native distributions and local execution web site - [Github](https://github.com/JetBrains/compose-multiplatform/blob/master/tutorials/Native_distributions_and_local_execution/README.md)
-    Compose Multiplatform playground - [MohamedRejeb Github](https://github.com/MohamedRejeb/Compose-Geometry-Playground/)
-    Compose/Web is Experimental and may be changed at any time. Use it only for evaluation purposes.
-    We would appreciate your feedback on Compose/Web and Kotlin/Wasm in the public Slack channel [#compose-web](https://slack-chats.kotlinlang.org/c/compose-web).
-    If you face any issues, please report them on [GitHub](https://github.com/JetBrains/compose-multiplatform/issues).
+    - Native distributions and local execution web site - [Github](https://github.com/JetBrains/compose-multiplatform/blob/master/tutorials/Native_distributions_and_local_execution/README.md)
+    - Compose Multiplatform playground - [MohamedRejeb Github](https://github.com/MohamedRejeb/Compose-Geometry-Playground/)
+    - Compose/Web is Experimental and may be changed at any time. Use it only for evaluation purposes.
+    - We would appreciate your feedback on Compose/Web and Kotlin/Wasm in the public Slack channel [#compose-web](https://slack-chats.kotlinlang.org/c/compose-web).
+    - If you face any issues, please report them on [GitHub](https://github.com/JetBrains/compose-multiplatform/issues).
