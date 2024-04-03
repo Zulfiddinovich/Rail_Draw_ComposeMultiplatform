@@ -22,7 +22,7 @@
 - for **Web**      use Run ▶ './gradlew :composeApp:wasmjsBrowserProductionWebpack' (outputDir is 'root\composeApp\build\dist\wasmJs\...') (to see working web-app, need to be uploaded githubPages: **see** in githubPage - [site](https://zulfiddinovich.github.io/Rail_Draw_ComposeMultiplatform/web_release/) )
 - for **Ios**      // todo
 
-=====================================================================================================
+=====================================================================
 * **Single**:
     - desktop setup installer (*.msi file) can be achieved with [this](https://www.youtube.com/watch?v=Jv_9zEkavAs)
 
